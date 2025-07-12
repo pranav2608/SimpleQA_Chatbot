@@ -1,0 +1,1 @@
+This is the simple Q&A Chatbot application created using Langchain with integration to OpenAi and other variation includes using opensource models such as Ollama. This app is monitored and tracked using Langserve
